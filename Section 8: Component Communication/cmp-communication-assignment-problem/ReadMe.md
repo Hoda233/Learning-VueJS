@@ -14,5 +14,6 @@ npm install
 npm run serve
 ```
 ## ScreenShots
-![Alt Text](Screenshot (2034).png)
-![Alt Text](Screenshot (2035).png)
+![Alt Text](https://github.com/Hoda233/Learning-VueJS/blob/main/Section%208:%20Component%20Communication/cmp-communication-assignment-problem/Screenshot%20(2034).png)
+
+![Alt Text](https://github.com/Hoda233/Learning-VueJS/blob/main/Section%208:%20Component%20Communication/cmp-communication-assignment-problem/Screenshot%20(2035).png)
