@@ -14,5 +14,5 @@ npm install
 npm run serve
 ```
 ## ScreenShots
-![Alt Text](Screenshot (2034).jpg)
-![Alt Text](Screenshot (2035).jpg)
+![Alt Text](Screenshot (2034).png)
+![Alt Text](Screenshot (2035).png)
